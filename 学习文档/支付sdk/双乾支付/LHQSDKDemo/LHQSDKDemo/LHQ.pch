@@ -1,0 +1,15 @@
+//
+//  LHQ.pch
+//  LHQWallet
+//
+//  Created by MisterXia on 16/9/9.
+//  Copyright © 2016年 www.95epay.com. All rights reserved.
+//
+
+#ifndef LHQ_pch
+#define LHQ_pch
+
+#import "LHQSetting.h"
+#import "IQKeyboardManager.h"
+
+#endif /* LHQ_pch */

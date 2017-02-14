@@ -1,0 +1,10 @@
+/**
+  本文档初始发布版本：v0101
+  当前最新版本：v0102
+       **/
+
+v0101 to v0102 变更处：
+   1、在AndroidManifest.xml添加“支持银行卡列表"的activity的注册代码：
+        <!-- 支持的银行卡界面 -->
+        <activity android:name="com.lhqpay.ewallet.activity.SupportBankListActivity"
+            android:windowSoftInputMode="stateHidden|adjustPan"></activity>
